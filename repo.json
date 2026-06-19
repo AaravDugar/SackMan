@@ -22,5 +22,10 @@
     "todo": {
         "version":"1.0",
         "description":"Simple todo list"
+    },
+
+    "news": {
+        "version":"1.0",
+        "description":"NewsAPI News App"
     }
 }
