@@ -1,0 +1,26 @@
+{
+    "calculator": {
+        "version":"1.0",
+        "description":"Simple arithmetic calculator"
+    },
+
+    "notes": {
+        "version":"1.0",
+        "description":"Simple note taking app"
+    },
+
+    "timer": {
+        "version":"1.0",
+        "description":"Countdown timer"
+    },
+
+    "dice": {
+        "version":"1.0",
+        "description":"Dice rolling simulator"
+    },
+
+    "todo": {
+        "version":"1.0",
+        "description":"Simple todo list"
+    }
+}
