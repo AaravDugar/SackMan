@@ -27,5 +27,10 @@
     "news": {
         "version":"1.0",
         "description":"NewsAPI News App"
+    },
+    
+    "yai": {
+        "version":"1.0",
+        "description":"OpenRouter Based AI Assistant inside yShell!"
     }
 }
